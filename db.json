@@ -1,29 +1,674 @@
 [
+
     {
-        "id": "1",
-        "id_letter":"kalki",
-        "p1": "phrase 1",
-        "p2": "phrase 2",
-        "p3": "phrase 3",
-        "p4": "phrase 4",
-        "p5": "phrase 5"
-    },
-    {
-        "id": "2",
-        "id_letter":"kosmic",
-        "p1": "phrase 1",
-        "p2": "phrase 2",
-        "p3": "phrase 3",
-        "p4": "phrase 4",
-        "p5": "phrase 5"
-    },
-    {
-        "id": "3",
-        "id_letter":"helloc",
-        "p1": "phrase 1",
-        "p2": "phrase 2",
-        "p3": "phrase 3",
-        "p4": "phrase 4",
-        "p5": "phrase 5"
+    "id": "1",
+    "id_letter": "MORP",
+    "phrase_1": "Protecting the environment is a necessity.",
+    "phrase_2": "Rabbits run really rapidly ",
+    "phrase_3": "The old oak tree stood firmly in the center of the park.",
+    "phrase_4": "The manager Marison made a mistake to which she had to face the consequences"
     }
+    ,
+    {
+    "Id": "2",
+    "id_letter": "TSPRIC",
+    "phrase_1": "She wrote the script for the play in just a week.",
+    "phrase_2": "The computer coding class was very challenging but also rewarding.",
+    "phrase_3": "The Red restaurant served the best seafood dishes in town.",
+    "phrase_4": "Simon's interest in Ink-painting has increased over the past years.",
+    "phrase_5": "The recipe required careful preparation and precise measurement",
+    "phrase_6": "The old man told us tales of his adventures when he was young."
+    }
+    ,
+    {
+    "id": "3",
+    "id_letter": "OGAL",
+    "phrase_1": "Along the coastline, the waves crashed against the rocks.",
+    "phrase_2": "The lake was surrounded by lush green forests and rolling hills.",
+    "phrase_3": "Getting a good night's sleep is essential for physical and mental well-being.",
+    "phrase_4": "Only by working over-time can we achieve our common goal."
+    },
+    {
+    "id": "4",
+    "id_letter": "LNIOKT",
+    "phrase_1": "Keep calm and carry on, even in the face of adversity.",
+    "phrase_2": "The opera was a stunning display of music, drama, and art.",
+    "phrase_3": "They worked together with a common goal and shared a strong sense of unity.",
+    "phrase_4": "The airplane flew, leaving behind the clouds and leaving an endless view.",
+    "phrase_5": "The children were playing in the park, chasing each other and laughing in the sun.",
+    "phrase_6": "The process was methodical and new, requiring patience and precision."
+    },
+
+    {
+    "id": "5",
+    "id_letter": "RYARBIL",
+    "phrase_1": "Love should be strong and unwavering, inspiring and sustaining the couple through their trials and tribulations.",
+    "phrase_2": "It's impossible to imagine a world without the internet.",
+    "phrase_3": "Beneath the blue sky, birds flew in formation.",
+    "phrase_4": "The right answer requires a great deal of research.",
+    "phrase_5": "The art exhibit featured a variety of styles and mediums.",
+    "phrase_6": "The principal made a strict rule about cell phone usage in school.",
+    "phrase_7": "The Epsonian bakers made a delicious apple pie for dessert.",
+    "phrase_8": "An engineer belonging to India designed a revolutionary new device that changed the world.",
+    "phrase_9": "The young girl named Trini twirled in her yellow dress in the park."
+    }
+    ,
+    {
+    "id": "6",
+    "id_letter": "JETCOB",
+    "phrase_1": "Over the years, the small town grew into a bustling city.",
+    "phrase_2": "Far beyond the boundaries of the city, the countryside was dotted with farms.",
+    "phrase_3": "Jack and Jill went up the hill to fetch a pail of water.",
+    "phrase_4": "The concept was explained to me in simple terms.",
+    "phrase_5": "Together I, Naman and Chaitanya considered various options before finalising our decision.",
+    "phrase_6": "The tourists took photos of the famous landmark."
+    }
+,
+    {
+    "id": "7",
+    "id_letter": "LIERPMOC",
+    "phrase_1": "Chris climbed the mountain, admiring the breathtaking view from the summit.",
+    "phrase_2": "The orange was juicy and sweet, satisfying her thirst.",
+    "phrase_3": "The mouse scampered across the room, searching for some cheese.",
+    "phrase_4": "People say that patience is a virtue.",
+    "phrase_5": "He drank refreshing drink in the middle of the day ",
+    "phrase_6": "We all must be aware, Learning a new language can open up new opportunities.",
+    "phrase_7": " Exercising earnestly is extremely important for every individual maintaining a healthy lifestyle.",
+    "phrase_8": "Roses run rampant round the rockery of rolling hills of the rural countryside."
+    }
+    ,
+    {
+    "id": "8",
+    "id_letter": "HBITUG",
+    "phrase_1": "Good friends are always there to support you through thick and thin.",
+    "phrase_2": "It's impossible to imagine a world without the internet.",
+    "phrase_3": "They worked together with a common goal and shared a strong sense of unity.",
+    "phrase_4": "He held the heavy hammer with both hands.",
+    "phrase_5": "She shielded herself by using an umbrella",
+    "phrase_6": "Big black bugs bleed blue blood."
+    }
+    
+ ,
+    {
+    "id": "9",
+    "id_letter": "AKSTC",
+    "phrase_1": "Summertime is the best season for outdoor activities",
+    "phrase_2": "The train travels through the scenic countryside, passing by rolling hills and lush forests.",
+    "phrase_3": "At the amusement park, the children anxiously awaited their turn on the roller coaster.",
+    "phrase_4": "How can a clam cram in a clean cream can?",
+    "phrase_5": "Katie's kite kept kissing the kangaroo."
+    }
+,
+    {
+    "id": "10",
+    "id_letter": "GREXE",
+    "phrase_1": "Raindrops fell from the gray sky, tapping gently on the roof and windows.",
+    "phrase_2": "Every eater eventually eats eggs.",
+    "phrase_3": "Gina's giant gingerbread house grew greatly.",
+    "phrase_4": "The concept was explained to me in simple terms.",
+    "phrase_5": "Xander examines xylophones while xeroxing x-rays."
+    }
+,
+    {
+    "id": "11",
+    "id_letter": "NJSO",
+    "phrase_1": "Jail is something you should try to avoid.",
+    "phrase_2": "She sells seashells by the seashore.",
+    "phrase_3": "The old oak tree stood firmly in the center of the park.",
+    "phrase_4": "Norris Newton never needed new noodles."
+    }
+    ,
+    {
+    "id": "63",
+    "id_letter": "PHTT",
+    "phrase_1": "Harry the hungry, hungry hippo is happily eating ham in his house.",
+    "phrase_2": "The two-twenty-two train tore through the tunnel.",
+    "phrase_3": "Twelve twins twirled twelve twigs.",
+    "phrase_4": "Please pick up puppies and pizza pie."
+    }
+,
+    {
+    "id": "64",
+    "id_letter": "SRET",
+    "phrase_1": "Red lorry, yellow lorry.",
+    "phrase_2": "Earnest Edgar eyed everything everywhere.",
+    "phrase_3": "Surely Sylvia swims! shrieked Sammy, surprised Someone should show Sylvia some strokes so she shall not sink.",
+    "phrase_4": "Two tiny tigers take two taxis to town"
+    }
+ ,
+    {
+    "id": "65",
+    "id_letter": "PAOS",
+    "phrase_1": "Selfish shellfish",
+    "phrase_2": "Awful old Ollie oils oily autos",
+    "phrase_3": "Andrea and Andrew ate eight acid apples accidentally",
+    "phrase_4": "Peter Piper picked a peck of pickled peppers."
+    }
+  ,
+    {
+    "id": "66",
+    "id_letter": "BURY" ,
+    "phrase_1": "Rory's lawn rake rarely rakes really right.",
+    "phrase_2": "An undertaker undertook to undertake an undertaking.",
+    "phrase_3": "Betty Botter had some butter, But, she said, this butter's bitter. If I bake this bitter butter, it would make my batter bitter.",
+    "phrase_4": "Young Yolanda Yates loves yellow yoyos, yogurt and yummy yams"
+    }
+    ,
+    {
+    "id": "12",
+    "id_letter": "SBMD",
+    "phrase_1": "Do your work consistently",
+    "phrase_2": "Don't be a loser",
+    "phrase_3": "Come to my party",
+    "phrase_4": "keep your money secure"
+    }
+,
+    {
+    "id": "13",
+    "id_letter": "VODESP",
+    "phrase_1": "Don't be a loser",
+    "phrase_2": "Do easy things first",
+    "phrase_3": "Solve questions very carefully",
+    "phrase_4": "Get ready on time",
+    "phrase_5": "Solve the questions you practiced",
+    "phrase_6" : "It is hard to study software engineering"
+    }
+,
+    {
+    "id": "14",
+    "id_letter": "GUSB",
+    "phrase_1": "Be on time",
+    "phrase_2": "Take umbrella with you",
+    "phrase_3": "You should go to gym daily",
+    "phrase_4": "Switch off the system if not in use"
+    }
+,
+    {
+    "id": "15",
+    "id_letter": "MPIOCLE",
+    "phrase_1": "Come to work daily",
+    "phrase_2": "Be on time",
+    "phrase_3": "Come to my cabin",
+    "phrase_4": "Do your work properly",
+    "phrase_5": "Salary will be credited instantly",
+    "phrase_6": "You can apply for loan",
+    "phrase_7": "Best employees will get certificate of excellence"
+    }
+,
+    {
+    "id": "16",
+    "id_letter": "SOCURR",
+    "phrase_1": "Coding should be learnt by everyone",
+    "phrase_2": "Don't underestimate your opponent",
+    "phrase_3": "Check for right answers",
+    "phrase_4": "Don't stop learning skills",
+    "phrase_5": "Do questions on set operations",
+    "phrase_6": "Never stop doing your work rapidly"
+    }
+    ,
+    {
+    "id": "17",
+    "id_letter": "DECO",
+    "phrase_1": "Coding should be learnt by everyone",
+    "phrase_2": "Do only the important questions first",
+    "phrase_3": "try to do your work properly ",
+    "phrase_4": "i think my ear's ringing"
+    
+    }
+,
+    {
+    "id": "18",
+    "id_letter": "SOPO",
+    "phrase_1": "Only right answers will be marked",
+    "phrase_2": "Only one option is correct",
+    "phrase_3": "Finish your personal work",
+    "phrase_4": "Keep phones on silent"
+    }
+,
+    {
+    "id": "19",
+    "id_letter": "AADT",
+    "phrase_1": "Don't be a loser",
+    "phrase_2": "Practice AFL daily",
+    "phrase_3": "Always try to give your best",
+    "phrase_4": "Try to solve all the questions"
+    }
+,
+    {
+    "id": "20",
+    "id_letter": "KISD",
+    "phrase_1": "Don't be a loser",
+    "phrase_2": "Don't install third party apps",
+    "phrase_3": "Try to sign in with right informations",
+    "phrase_4": "Always use right key for lock"
+    }
+,
+    {
+    "id": "21",
+    "id_letter": "ESKY",
+    "phrase_1": "Keep calm and carry on, even in the face of adversity.",
+    "phrase_2": "Achieve excellence in your field",
+    "phrase_3": "Always give your best",
+    "phrase_4": "Keep phones on silent"
+    }
+,
+    {
+    "id": "53",
+    "id_letter": "STTE",
+    "phrase_1": "Today is your day",
+    "phrase_2": "Enjoy everyday as last day",
+    "phrase_3": "Learn new skills",
+    "phrase_4": "Don't depend on tomorrow"
+    }
+,
+    {
+    "id": "54",
+    "id_letter": "LAIME",
+    "phrase_1": "Enjoy everyday as last day",
+    "phrase_2": "Only money cannot buy happiness",
+    "phrase_3": "Use the acquired skills in good way",
+    "phrase_4": "Use of paper instead of plastic is good",
+    "phrase_5": "Never try to be a loser"
+    }
+,
+    {
+    "id": "55",
+    "id_letter": "OTNF",
+    "phrase_1": "Focus on your goals",
+    "phrase_2": "Do only right things",
+    "phrase_3": "Sleep during night and work during the day",
+    "phrase_4": "Don't depend on tomorrow"
+    }
+,
+    {
+    "id": "56",
+    "id_letter": "XETT",
+    "phrase_1": "Today is your day",
+    "phrase_2": "Enjoy everyday as last day",
+    "phrase_3": "Cutting of X-mas tree should be banned for Christmas",
+    "phrase_4": "Don't depend on tomorrow"
+    }
+    
+,
+    {
+    "id": "57",
+    "id_letter": "LAUVE",
+    "phrase_1": "Vanishing on working period should be avoided",
+    "phrase_2": "Doing all assignments just before the deadline should be avoided",
+    "phrase_3": "Taking home loan might be helpful",
+    "phrase_4": "Always carrying an umbrella helps in rains",
+    "phrase_5": "Award for the best employee should be awarded to the most punctual employee"
+    }
+    
+,
+    {
+    "id": "22",
+    "id_letter":"PLOFPY",
+    "phrase_1": "Future is uncertain and can be shaped into something beautiful.",
+    "phrase_2": "It's like a journey, full of twists and turns.",
+    "phrase_3": "Learns from obstacles and obstacles can be opportunities",
+    "phrase_4": "Being in the process is important ",
+    "phrase_5": "Tough part about running program is compilation process",
+    "phrase_6": "When you think about past years it brings nostalgia "
+    }
+,
+    {
+    "id": "23",
+    "id_letter":"YRAUBL",
+    "phrase_1": "Blue is the sky",
+    "phrase_2": "Living long life is all about journey",
+    "phrase_3": "Do not underestimate someone.",
+    "phrase_4": "It is time, run for it",
+    "phrase_5": "It's been the same after all these years",
+    "phrase_6": "When you think about past years it brings nostalgia"
+    }
+,
+    {
+    "id": "24",
+    "id_letter":"UESOM",
+    "phrase_1": "More the merrier.",
+    "phrase_2": "You obtain what you sow for. ",
+    "phrase_3": "Do not underestimate someone",
+    "phrase_4": "Long time no see.",
+    "phrase_5": "You carry all your energy with you."
+    }
+,
+    {
+    "id": "25",
+    "id_letter":"CXEEL",
+    "phrase_1": "Exceed all limitations of yours.",
+    "phrase_2": "The xylophone plays soft notes",
+    "phrase_3": "Let them call you the best.",
+    "phrase_4": "I think my ear's ringing.",
+    "phrase_5": "I've met you at last."
+    }
+,
+    {
+    "id": "26",
+    "id_letter":"DAOEB",
+    "phrase_1": "All the best to you. ",
+    "phrase_2": "The door of opportunities is here",
+    "phrase_3": "You should obtain what you dream of.",
+    "phrase_4": "One of the best works is here for you ",
+    "phrase_5": "Be the one to eliminate at last."
+    }
+ ,
+    {
+    "id": "27",
+    "id_letter":"DRDOSCI",
+    "phrase_1": "Do not touch.",
+    "phrase_2": "In India we care.",
+    "phrase_3": "It is so cool",
+    "phrase_4": "It's all about cars.",
+    "phrase_5": "You should know about one's intentions",
+    "phrase_6": "It's all about cars that ride smoothly. ",
+    "phrase_7": "Your loved one cries when you die."
+    
+    
+    
+    }
+    
+,
+    {
+    "id": "28",
+    "id_letter":"TMAORF",
+    "phrase_1": "Future is uncertain and can be shaped into something beautiful.",
+    "phrase_2": "You obtain what you sow for.",
+    "phrase_3": "Rabbits run really rapidly",
+    "phrase_4": "The manager Marison made a mistake to which she had to face the consequences",
+    "phrase_5": "You should know all about one's intentions",
+    "phrase_6": "Good journey is  full of twists and turns"
+    }
+,
+    {
+    "id": "29",
+    "id_letter":"WRKOTNE",
+    "phrase_1": "Not all that glitters is gold.",
+    "phrase_2": "The envelope conceals important Data.",
+    "phrase_3": "It's the twist and turns that make life adventurous.",
+    "phrase_4": "Complete all the work given.",
+    "phrase_5": "One should never judge one without knowing their true self.",
+    "Phrase_6":"You know it is time, run for it",
+    "Phrase_7":"One of the best event is Kosmic"
+    }
+,
+    {
+    "id": "30",
+    "id_letter":"GCHAPIR",
+    "phrase_1": "Go all the way and win.",
+    "phrase_2": "Great research works require great minds.",
+    "phrase_3": "It is all about one's mindset.",
+    "phrase_4": "It's not the Photographs but the photographer",
+    "phrase_5": "It is all about how you think of a situation.",
+    "phrase_6": "One of the best is India.",
+    "phrase_7": "You  know when and whom to call. "
+    }
+,
+    {
+    "id": "31",
+    "id_letter":"DLCUO",
+    "phrase_1": "Crisis can change one's mindset.",
+    "phrase_2": "one's love can be a dangerous weapon.",
+    "phrase_3": "You should obtain what you dream of.",
+    "phrase_4": "It all goes under when you give up.",
+    "phrase_5": "One mistake can cause disastrous effects."
+    }
+
+ ,   {
+    "id": "32",
+    "id_letter":"MORARGP",
+    "phrase_1": "Plan a good  future by polishing the present. ",
+    "phrase_2": "All races are not good.",
+    "phrase_3": "It's an onion that can make one cry even when the are happy.",
+    "phrase_4": "Laptop should have graphics as they boost performance",
+    "phrase_5": "All Rabbits run really rapidly.",
+    "phrase_6": "Company apple was created in a garage.",
+    "phrase_7": " All great research works require great minds."
+    
+    
+    }
+,
+    {
+    "id": "58",
+    "id_letter": "RASMT",
+    "phrase_1": "Self motivation is the best motivation.",
+    "phrase_2": "Always more the merrier",
+    "phrase_3": "It is all about one's mindset.",
+    "phrase_4": "Rabbits run really rapidly.",
+    "phrase_5": "At times the tongue's taste matters."
+    }
+ , 
+    {
+    "id": "59",
+    "id_letter": "IESFL",
+    "phrase_1": "Future is uncertain and can be shaped into something beautiful.",
+    "phrase_2": "In India we care.",
+    "phrase_3": "Guns are lethal weapons.",
+    "phrase_4": "I think my ear's ringing.",
+    "phrase_5": "Anime and cars are so cool"
+    }
+ ,
+    {
+    "id": "60",
+    "Id_letter":"RMOECH",
+    "phrase_1": "Connections are important.",
+    "phrase_2": "Call Help only when Required.",
+    "phrase_3": "All the Rats followed the piper.",
+    "phrase_4": "You should obtain what you dream of.",
+    "phrase_5": "The manager Marison made  mistake to which she had to face the consequences",
+    "phrase_6": "Be the one to be eliminated at last."
+    }
+,
+    {
+    "id": "61",
+    "id_letter": "XLNIU",
+    "phrase_1": "Long lost person was found after a long time.",
+    "phrase_2": "Insider Information Destroys the trade.",
+    "phrase_3": "It's all new until you master it.",
+    "phrase_4": "Everyone loves the underdog.",
+    "phrase_5": "soft tunes played on xylophone."
+    }
+,
+    {
+    "id": "62",
+    "id_letter": "CESCAS",
+    "phrase_1": "All is lost when one gives up.",
+    "phrase_2": "Connections can make you or break you.",
+    "phrase_3": "If you can, you must.",
+    "phrase_4": "I think my ear's ringing.",
+    "phrase_5": "Anime and cars are so cool.",
+    "phrase_6":"The glass has a slight shimmer."
+    
+    }
+    ,
+                                    
+    {
+    "id": "33",
+    "id_letter": "UPC",
+    "phrase_1": "Carl has been studying computer science for the past two years ",
+    "phrase_2": "His practice has given him what he deserves",
+    "phrase_3": "Ravis Black Umbrella is lost "
+    }
+,
+    {
+    "id": "34",
+    "id_letter": "ANL",
+    "phrase_1": "Lisa has always been fascinated by the stars and planets",
+    "phrase_2": "Practice AFL daily",
+    "phrase_3": "I said No"
+    }
+    ,
+    {
+    "id": "35",
+    "id_letter": "RANIBY",
+    "phrase_1": "Being introvert is also good sometimes",
+    "phrase_2": "Being Informative is good",
+    "phrase_3": "please bring notebooks daily to the classes",
+    "phrase_4": "Store marks in Array of size 50",
+    "phrase_5": "Ryan  runs by the river  to relax and rejuvenate his mind.",
+    "phrase_6": "Yellow yarn yarns yank yetis yapping."
+    }
+,
+    {
+    "id": "36",
+    "id_letter": "erihcp",
+    "phrase_1": "Come to my office  now!",
+    "phrase_2": "Being informative is a boon",
+    "phrase_3": "Mr. Peter played the piano perfectly,",
+    "phrase_4": "Aditya will be hosting today's event",
+    "phrase_5": "Mammals do not lay egg",
+    "phrase_6": "Ryan regularly runs by the river  to relax and rejuvenate his mind."
+    }
+    ,   
+    {
+    "id": "37",
+    "id_letter": "budge",
+    "phrase_1": "Donut is my favourite snack ",
+    "phrase_2": "Every evening, Emily exercises by doing exercises and stretching her arms                                                  and legs efficiently.",
+    "phrase_3": "Stop throwing & Burning plastic here and there ",
+    "phrase_4": "Under the umbrella, Uncle Sam used his unicycle while juggling unicorns",
+    "phrase_5": "Green grapes grow on  grapevine"
+    }
+    ,    
+    {
+    "id": "38",
+    "id_letter": "Renkel",
+    "phrase_1": "kingdom of the blind has the one-eyed man as the king.",
+    "phrase_2": "Every evening Emily exercises by doing exercises and stretching her arms and legs efficiently.",
+    "phrase_3": "Check for right answers",
+    "phrase_4": "Nina  notices the noisy neighbors every  night",
+    "phrase_5": "Each elephant eagerly eats everything",
+    "Phrase_6": "Mariana Linda likes learning new languages"
+    }
+    ,
+    {
+    "id": "39",
+    "id_letter": "Coligl",
+    "phrase_1": "Linda likes learning new languages",
+    "phrase_2": "you obtain what you sow for",
+    "phrase_3": "You should go the GYM daily",
+    "phrase_4": "Simon's interest in Ink-painting has increased over the past years.",
+    "phrase_5": "Charlie caught a common cold so the doctor prescribed her some cough syrup"
+    }
+    ,
+    {
+    "id": "40",
+    "id_letter": "Rayar",
+    "phrase_1": "An apple a day keep's the doctor away ",
+    "phrase_2": "Rabbits run really rapidly",
+    "phrase_3": "Ryan  runs  to relax and rejuvenate ",
+    "phrase_4": "I love you and I miss you",
+    "phrase_5": "The Young yaks yell loudly "
+    }
+   ,
+    {
+    "id": "41",
+    "id_letter": "Pbmait",
+    "phrase_1": "Be the one to eliminate at last",
+    "phrase_2": "In India we care",
+    "phrase_3": "Taking  a tour of the ancient temple is very useful to gain information about     the history",
+    "phrase_4": "Maxine managed to make marvelous muffins",
+    "phrase_5": "You should know all about one's intentions",
+    "phrase_6": "Paula picked a bunch of purple pansies and planted them in a pretty planter"
+    }
+    ,
+    {
+    "id": "42",
+    "id_letter": "owdrd",
+    "phrase_1": "David drove the car down the dark deserted road",
+    "phrase_2": "Wendy walked warily along the wavy waterside",
+    "phrase_3": "And in other words its important ",
+    "phrase_4": "Ryan  runs  to relax and rejuvenate ",
+    "phrase_5": "During the day John Dalton visit's our shop atleast once"
+    }
+,
+    {
+    "id": "43",
+    "id_letter": "bxox",
+    "phrase_1": " Xray is a  device discovered by mistake" ,
+    "phrase_2": "Okay but it helps us a lot",
+    "phrase_3": " And in other words its important",
+    "phrase_4": "All doctors use XRAY"
+    }
+    ,   {
+    "id": "44",
+    "id_letter": "olot",
+    "phrase_1": "Talking is better",
+    "phrase_2": "Leaving other activities is not good",
+    "phrase_3": "Listen your own first",
+    "phrase_4": "Keep them talking learning is key to success" 
+    }
+    ,
+    {
+    "id": "45",
+    "id_letter": "rokw",
+    "phrase_1": " Wasting food is bad",
+    "phrase_2": " Should offer food to others",
+    "phrase_3": " Needy person require most", 
+    "phrase_4": "Good is to knowing the value of food"
+    }
+    ,
+    {
+    "id": "46",
+    "id_letter": "kids",
+    "phrase_1": "Deserts after food is must",
+    "phrase_2": "Desert is important",
+    "phrase_3": "Good to see you wth deserts",
+    "phrase_4": "Eating desert already knowing its harmful"
+    }
+    ,
+    {
+    "id": "47",
+    "id_letter": "Seru",
+    "phrase_1": "Umbrella in rain",
+    "phrase_2": "Somehow someone use",
+    "phrase_3": "Its very easy to use ",
+    "phrase_4": "Sometime we being rarest is good"
+    }
+    ,
+    {
+    "id": "48",
+    "id_letter": "irew",
+    "phrase_1": "Wrinkle fades the beauty",
+    "phrase_2": "But its natural ",
+    "phrase_3": "Being good ripped together ",
+    "phrase_4": "Okay so  let  everything happen"
+    }
+,
+    {
+    "id": "49",
+    "id_letter": "ropt",
+    "phrase_1": "Parrot is bird ",
+    "phrase_2": "Pick orange as a fruit",
+    "phrase_3": "Orange is rarest fruit",
+    "phrase_4": "Orange can be transformed into juice"
+    }
+    ,
+    {
+    "id": "50",
+    "id_letter": "pich",
+    "phrase_1": "Chips is all we need",
+    "phrase_2": "its healthy just joking",
+    "phrase_3": "Its unhealthy i know ",
+    "phrase_4": "And we know that papaya is fruit"
+    }
+    ,{
+    "id": "51",
+    "id_letter": "Tada",
+    "phrase_1": "Dog is animal",
+    "phrase_2": "every animal need love",
+    "phrase_3": "So we together love them ",
+    "phrase_4": "Need to understand animals feeling"
+    }
+    ,{
+    "id": "52",
+    "id_letter": "Sabt",
+    "phrase_1": "Total earning is important",
+    "phrase_2": "Loving animals hits different",
+    "phrase_3": "All need basic idea of everything",
+    "phrase_4": "Okay lets start separating things"
+    }
+    
+    
+    
 ]

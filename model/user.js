@@ -2,7 +2,9 @@ const mongoose = require('mongoose');
 
 const userSchema = new mongoose.Schema({
     id:String,
-    phrase_:{
+    id_roll:Number,
+    ques_id:String,
+    time_initial:{
         type:String,
         required:true,
     }
